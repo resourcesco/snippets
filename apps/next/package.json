@@ -9,7 +9,7 @@
   "dependencies": {
     "@timkendrick/monaco-editor": "0.0.7",
     "@zeit/next-css": "^0.0.7",
-    "codemirror": "^5.33.0",
+    "codemirror": "^5.58.2",
     "css-loader": "^0.28.9",
     "express": "^4.16.2",
     "leaflet": "^1.2.0",
